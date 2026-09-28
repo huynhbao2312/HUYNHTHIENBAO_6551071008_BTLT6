@@ -1,0 +1,35 @@
+C:\Users\Do Nhat Thanh\BTCh5_Bai1_\bin\Debug\net10.0-windows\BTCh5_Bai1_.exe
+C:\Users\Do Nhat Thanh\BTCh5_Bai1_\bin\Debug\net10.0-windows\BTCh5_Bai1_.deps.json
+C:\Users\Do Nhat Thanh\BTCh5_Bai1_\bin\Debug\net10.0-windows\BTCh5_Bai1_.runtimeconfig.json
+C:\Users\Do Nhat Thanh\BTCh5_Bai1_\bin\Debug\net10.0-windows\BTCh5_Bai1_.dll
+C:\Users\Do Nhat Thanh\BTCh5_Bai1_\bin\Debug\net10.0-windows\BTCh5_Bai1_.pdb
+C:\Users\Do Nhat Thanh\BTCh5_Bai1_\obj\Debug\net10.0-windows\BTCh5_Bai1_.csproj.GenerateResource.cache
+C:\Users\Do Nhat Thanh\BTCh5_Bai1_\obj\Debug\net10.0-windows\BTCh5_Bai1_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Do Nhat Thanh\BTCh5_Bai1_\obj\Debug\net10.0-windows\BTCh5_Bai1_.AssemblyInfoInputs.cache
+C:\Users\Do Nhat Thanh\BTCh5_Bai1_\obj\Debug\net10.0-windows\BTCh5_Bai1_.AssemblyInfo.cs
+C:\Users\Do Nhat Thanh\BTCh5_Bai1_\obj\Debug\net10.0-windows\BTCh5_Bai1_.csproj.CoreCompileInputs.cache
+C:\Users\Do Nhat Thanh\BTCh5_Bai1_\obj\Debug\net10.0-windows\BTCh5_Bai1_.dll
+C:\Users\Do Nhat Thanh\BTCh5_Bai1_\obj\Debug\net10.0-windows\refint\BTCh5_Bai1_.dll
+C:\Users\Do Nhat Thanh\BTCh5_Bai1_\obj\Debug\net10.0-windows\BTCh5_Bai1_.pdb
+C:\Users\Do Nhat Thanh\BTCh5_Bai1_\obj\Debug\net10.0-windows\BTCh5_Bai1_.genruntimeconfig.cache
+C:\Users\Do Nhat Thanh\BTCh5_Bai1_\obj\Debug\net10.0-windows\ref\BTCh5_Bai1_.dll
+C:\Users\Do Nhat Thanh\BTCh5_Bai1_\obj\Debug\net10.0-windows\BTCh5_Ba.398F47DC.Up2Date
+C:\Users\Do Nhat Thanh\BTCh5_Bai1_\obj\Debug\net10.0-windows\BTCh5_Bai1_.FormDangKy.resources
+D:\CODEVisualStudio\BTCh5_Bai1_\bin\Debug\net10.0-windows\BTCh5_Bai1_.exe
+D:\CODEVisualStudio\BTCh5_Bai1_\bin\Debug\net10.0-windows\BTCh5_Bai1_.deps.json
+D:\CODEVisualStudio\BTCh5_Bai1_\bin\Debug\net10.0-windows\BTCh5_Bai1_.runtimeconfig.json
+D:\CODEVisualStudio\BTCh5_Bai1_\bin\Debug\net10.0-windows\BTCh5_Bai1_.dll
+D:\CODEVisualStudio\BTCh5_Bai1_\bin\Debug\net10.0-windows\BTCh5_Bai1_.pdb
+D:\CODEVisualStudio\BTCh5_Bai1_\obj\Debug\net10.0-windows\BTCh5_Bai1_.FormDangKy.resources
+D:\CODEVisualStudio\BTCh5_Bai1_\obj\Debug\net10.0-windows\BTCh5_Bai1_.Properties.Resources.resources
+D:\CODEVisualStudio\BTCh5_Bai1_\obj\Debug\net10.0-windows\BTCh5_Bai1_.csproj.GenerateResource.cache
+D:\CODEVisualStudio\BTCh5_Bai1_\obj\Debug\net10.0-windows\BTCh5_Bai1_.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODEVisualStudio\BTCh5_Bai1_\obj\Debug\net10.0-windows\BTCh5_Bai1_.AssemblyInfoInputs.cache
+D:\CODEVisualStudio\BTCh5_Bai1_\obj\Debug\net10.0-windows\BTCh5_Bai1_.AssemblyInfo.cs
+D:\CODEVisualStudio\BTCh5_Bai1_\obj\Debug\net10.0-windows\BTCh5_Bai1_.csproj.CoreCompileInputs.cache
+D:\CODEVisualStudio\BTCh5_Bai1_\obj\Debug\net10.0-windows\BTCh5_Bai1_.dll
+D:\CODEVisualStudio\BTCh5_Bai1_\obj\Debug\net10.0-windows\refint\BTCh5_Bai1_.dll
+D:\CODEVisualStudio\BTCh5_Bai1_\obj\Debug\net10.0-windows\BTCh5_Bai1_.pdb
+D:\CODEVisualStudio\BTCh5_Bai1_\obj\Debug\net10.0-windows\BTCh5_Bai1_.genruntimeconfig.cache
+D:\CODEVisualStudio\BTCh5_Bai1_\obj\Debug\net10.0-windows\ref\BTCh5_Bai1_.dll
+D:\CODEVisualStudio\BTCh5_Bai1_\obj\Debug\net10.0-windows\BTCh5_Ba.398F47DC.Up2Date
