@@ -1,0 +1,45 @@
+C:\Users\ASUS\Downloads\files\bin\Debug\net8.0-windows\BanVeXemPhim.exe
+C:\Users\ASUS\Downloads\files\bin\Debug\net8.0-windows\BanVeXemPhim.deps.json
+C:\Users\ASUS\Downloads\files\bin\Debug\net8.0-windows\BanVeXemPhim.runtimeconfig.json
+C:\Users\ASUS\Downloads\files\bin\Debug\net8.0-windows\BanVeXemPhim.dll
+C:\Users\ASUS\Downloads\files\bin\Debug\net8.0-windows\BanVeXemPhim.pdb
+C:\Users\ASUS\Downloads\files\obj\Debug\net8.0-windows\BanVeXemPhim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Downloads\files\obj\Debug\net8.0-windows\BanVeXemPhim.AssemblyInfoInputs.cache
+C:\Users\ASUS\Downloads\files\obj\Debug\net8.0-windows\BanVeXemPhim.AssemblyInfo.cs
+C:\Users\ASUS\Downloads\files\obj\Debug\net8.0-windows\BanVeXemPhim.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\files\obj\Debug\net8.0-windows\BanVeXemPhim.dll
+C:\Users\ASUS\Downloads\files\obj\Debug\net8.0-windows\refint\BanVeXemPhim.dll
+C:\Users\ASUS\Downloads\files\obj\Debug\net8.0-windows\BanVeXemPhim.pdb
+C:\Users\ASUS\Downloads\files\obj\Debug\net8.0-windows\BanVeXemPhim.genruntimeconfig.cache
+C:\Users\ASUS\Downloads\files\obj\Debug\net8.0-windows\ref\BanVeXemPhim.dll
+C:\Users\ASUS\Downloads\files\obj\Debug\net8.0-windows\BanVeXem.F1763B4B.Up2Date
+D:\Subject\visual programming\BTLT5\BTCh5_Bai5 (1)\bin\Debug\net8.0-windows\BanVeXemPhim.exe
+D:\Subject\visual programming\BTLT5\BTCh5_Bai5 (1)\bin\Debug\net8.0-windows\BanVeXemPhim.deps.json
+D:\Subject\visual programming\BTLT5\BTCh5_Bai5 (1)\bin\Debug\net8.0-windows\BanVeXemPhim.runtimeconfig.json
+D:\Subject\visual programming\BTLT5\BTCh5_Bai5 (1)\bin\Debug\net8.0-windows\BanVeXemPhim.dll
+D:\Subject\visual programming\BTLT5\BTCh5_Bai5 (1)\bin\Debug\net8.0-windows\BanVeXemPhim.pdb
+D:\Subject\visual programming\BTLT5\BTCh5_Bai5 (1)\obj\Debug\net8.0-windows\BanVeXemPhim.GeneratedMSBuildEditorConfig.editorconfig
+D:\Subject\visual programming\BTLT5\BTCh5_Bai5 (1)\obj\Debug\net8.0-windows\BanVeXemPhim.AssemblyInfoInputs.cache
+D:\Subject\visual programming\BTLT5\BTCh5_Bai5 (1)\obj\Debug\net8.0-windows\BanVeXemPhim.AssemblyInfo.cs
+D:\Subject\visual programming\BTLT5\BTCh5_Bai5 (1)\obj\Debug\net8.0-windows\BanVeXemPhim.csproj.CoreCompileInputs.cache
+D:\Subject\visual programming\BTLT5\BTCh5_Bai5 (1)\obj\Debug\net8.0-windows\BanVeXemPhim.dll
+D:\Subject\visual programming\BTLT5\BTCh5_Bai5 (1)\obj\Debug\net8.0-windows\refint\BanVeXemPhim.dll
+D:\Subject\visual programming\BTLT5\BTCh5_Bai5 (1)\obj\Debug\net8.0-windows\BanVeXemPhim.pdb
+D:\Subject\visual programming\BTLT5\BTCh5_Bai5 (1)\obj\Debug\net8.0-windows\BanVeXemPhim.genruntimeconfig.cache
+D:\Subject\visual programming\BTLT5\BTCh5_Bai5 (1)\obj\Debug\net8.0-windows\ref\BanVeXemPhim.dll
+D:\Subject\visual programming\BTLT5\BTCh5_Bai5 (1)\obj\Debug\net8.0-windows\BanVeXem.F1763B4B.Up2Date
+D:\CODEVisualStudio\BTCh5_Bai5\bin\Debug\net8.0-windows\BanVeXemPhim.exe
+D:\CODEVisualStudio\BTCh5_Bai5\bin\Debug\net8.0-windows\BanVeXemPhim.deps.json
+D:\CODEVisualStudio\BTCh5_Bai5\bin\Debug\net8.0-windows\BanVeXemPhim.runtimeconfig.json
+D:\CODEVisualStudio\BTCh5_Bai5\bin\Debug\net8.0-windows\BanVeXemPhim.dll
+D:\CODEVisualStudio\BTCh5_Bai5\bin\Debug\net8.0-windows\BanVeXemPhim.pdb
+D:\CODEVisualStudio\BTCh5_Bai5\obj\Debug\net8.0-windows\BanVeXemPhim.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODEVisualStudio\BTCh5_Bai5\obj\Debug\net8.0-windows\BanVeXemPhim.AssemblyInfoInputs.cache
+D:\CODEVisualStudio\BTCh5_Bai5\obj\Debug\net8.0-windows\BanVeXemPhim.AssemblyInfo.cs
+D:\CODEVisualStudio\BTCh5_Bai5\obj\Debug\net8.0-windows\BanVeXemPhim.csproj.CoreCompileInputs.cache
+D:\CODEVisualStudio\BTCh5_Bai5\obj\Debug\net8.0-windows\BanVeXemPhim.dll
+D:\CODEVisualStudio\BTCh5_Bai5\obj\Debug\net8.0-windows\refint\BanVeXemPhim.dll
+D:\CODEVisualStudio\BTCh5_Bai5\obj\Debug\net8.0-windows\BanVeXemPhim.pdb
+D:\CODEVisualStudio\BTCh5_Bai5\obj\Debug\net8.0-windows\BanVeXemPhim.genruntimeconfig.cache
+D:\CODEVisualStudio\BTCh5_Bai5\obj\Debug\net8.0-windows\ref\BanVeXemPhim.dll
+D:\CODEVisualStudio\BTCh5_Bai5\obj\Debug\net8.0-windows\BanVeXem.F1763B4B.Up2Date
